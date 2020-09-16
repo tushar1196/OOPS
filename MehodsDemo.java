@@ -32,6 +32,16 @@ public class MehodsDemo {
          Employee e1=new Employee();
 			e1.setData("xyz",10000);
 	//		System.out.println(e1.name);
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
 	}
 
 }

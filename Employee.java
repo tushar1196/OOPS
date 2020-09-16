@@ -3,6 +3,7 @@ public class Employee {
  double salary;
  private String name;
  
+ 
  void setData(String name1,double salary1)
  {name=name1;
  salary=salary1;
