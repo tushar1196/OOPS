@@ -1,4 +1,4 @@
-/* MethodOverloading is OOP featute /methology where different methods has same but 
+/* MethodOverloading is OOP featute /methology where different methods has same name but 
   diifrent datatype arguments or different no. of arguments 
   2.It is not dependent on return type of method
   */
